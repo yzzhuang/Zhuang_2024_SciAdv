@@ -1,2 +1,2 @@
 # Zhuang_2024_SciAdv
-Codes used in WUS drought manuscript
+Climate model bias correction (QDM) codes used in WUS drought manuscript
